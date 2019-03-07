@@ -1,0 +1,36 @@
+h1 {
+    text-align:center;
+    color:white;
+    border:white dotted;
+    background-color:#033c68;
+    opacity:.5;
+}
+img {
+    width:380px;
+    height:250px;
+}
+.hermoine {
+    display:flex;
+    justify-content:center;
+}
+.firsttrick{
+ display: flex;
+ justify-content:center;
+}
+.secondtrick{
+   display: flex;
+ justify-content:center;  
+}
+.thirdtrick{
+  display: flex;
+ justify-content:center;  
+}
+#secret{
+    display:none;
+}
+body{
+    background-image:url("https://www.pixel-creation.com/wp-content/uploads/harry-potter-harry-potter-paperback-illustrated-edition-800x800.png");
+}
+p{
+    color:white;
+}
